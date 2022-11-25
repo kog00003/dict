@@ -7,5 +7,5 @@ translate to
 ['Afrikaans', 'Arabic', 'Bulgarian', 'Croatian', 'Czech', 'Danish', 'Dutch', 'Finnish', 'French', 'German', 'Hindi', 'Hungarian', 'Irish', 'Italian',
           'Japanese', 'Latin', 'Lithuaian', 'Greek', 'Norwegian', 'Polish', 'Portuguese', 'Romany', 'Russian', 'Serbian', 'Spanish', 'Swahili', 'Swedish', 'Turkish', 'Welsh']
 ```
-source from freedict
+using freedict
 not fully filled
