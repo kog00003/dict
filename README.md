@@ -1,6 +1,6 @@
 # dict
 Oxford3000 words (actually 3847 words)
-translate to 
+translated to 
 
 ```
 ['afr', 'ara', 'bul', 'ces',  'cym',   'dan', 'nld',  'fin',   'fra',  'deu',  'hin', 'hun', 'gle',
