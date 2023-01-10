@@ -20,3 +20,9 @@ chineses most 1000 words with example (add translated to filipin, thailand, indo
 <h4>cn1000.csv</h4> 
 
 chineses most 1000 daily sentence
+
+
+
+licence/source:
+
+from google/github
