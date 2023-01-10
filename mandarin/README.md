@@ -3,11 +3,11 @@
 
 https://www.youtube.com/@gachoitong
 
-translated to pynyin, english, vietnamese
+translated to pinyin, english, vietnamese
 
 <h4> zh_sentence.csv</h4> 
 
-~25000 chinese sentences
+~25000 chinese sentences, merge from varius sources
 
 <h4>hsk.csv</h4> 
 
@@ -23,6 +23,6 @@ chineses most 1000 daily sentence
 
 
 
-licence/source:
+<h4?licence/source:</h4>
 
 from google/github
